@@ -1,0 +1,71 @@
+D:\c sharb y2\connectToSQLserver\connectToSQLserver\bin\Debug\connectToSQLserver.exe.config
+D:\c sharb y2\connectToSQLserver\connectToSQLserver\bin\Debug\connectToSQLserver.exe
+D:\c sharb y2\connectToSQLserver\connectToSQLserver\bin\Debug\connectToSQLserver.pdb
+D:\c sharb y2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.csproj.AssemblyReference.cache
+D:\c sharb y2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.csproj.SuggestedBindingRedirects.cache
+D:\c sharb y2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frmlogin.resources
+D:\c sharb y2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.Properties.Resources.resources
+D:\c sharb y2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.csproj.GenerateResource.cache
+D:\c sharb y2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.csproj.CoreCompileInputs.cache
+D:\c sharb y2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.exe
+D:\c sharb y2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.pdb
+D:\c sharb y2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frmMainform.resources
+D:\c sharb y2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frmViewPeople.resources
+C:\Users\mengsoklay\Desktop\connectToSQLserver\connectToSQLserver\bin\Debug\connectToSQLserver.exe.config
+C:\Users\mengsoklay\Desktop\connectToSQLserver\connectToSQLserver\bin\Debug\connectToSQLserver.exe
+C:\Users\mengsoklay\Desktop\connectToSQLserver\connectToSQLserver\bin\Debug\connectToSQLserver.pdb
+C:\Users\mengsoklay\Desktop\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.csproj.AssemblyReference.cache
+C:\Users\mengsoklay\Desktop\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frmlogin.resources
+C:\Users\mengsoklay\Desktop\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frmMainform.resources
+C:\Users\mengsoklay\Desktop\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.Properties.Resources.resources
+C:\Users\mengsoklay\Desktop\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frmViewPeople.resources
+C:\Users\mengsoklay\Desktop\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.csproj.GenerateResource.cache
+C:\Users\mengsoklay\Desktop\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.csproj.CoreCompileInputs.cache
+C:\Users\mengsoklay\Desktop\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.exe
+C:\Users\mengsoklay\Desktop\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.pdb
+C:\Users\mengsoklay\Desktop\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frmpayment.resources
+C:\Users\mengsoklay\Desktop\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frmLuckyDraw.resources
+C:\Users\mengsoklay\Desktop\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frminsertproduct.resources
+C:\Users\mengsoklay\Desktop\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frmOrderproducts.resources
+C:\Users\mengsoklay\Desktop\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.Payments.resources
+C:\Users\mengsoklay\Desktop\MengSoklay SS13.14\connectToSQLserver\connectToSQLserver\bin\Debug\connectToSQLserver.exe.config
+C:\Users\mengsoklay\Desktop\MengSoklay SS13.14\connectToSQLserver\connectToSQLserver\bin\Debug\connectToSQLserver.exe
+C:\Users\mengsoklay\Desktop\MengSoklay SS13.14\connectToSQLserver\connectToSQLserver\bin\Debug\connectToSQLserver.pdb
+C:\Users\mengsoklay\Desktop\MengSoklay SS13.14\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.csproj.AssemblyReference.cache
+C:\Users\mengsoklay\Desktop\MengSoklay SS13.14\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frmlogin.resources
+C:\Users\mengsoklay\Desktop\MengSoklay SS13.14\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frminsertproduct.resources
+C:\Users\mengsoklay\Desktop\MengSoklay SS13.14\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frmLuckyDraw.resources
+C:\Users\mengsoklay\Desktop\MengSoklay SS13.14\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frmMainform.resources
+C:\Users\mengsoklay\Desktop\MengSoklay SS13.14\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frmOrderproducts.resources
+C:\Users\mengsoklay\Desktop\MengSoklay SS13.14\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frmpayment.resources
+C:\Users\mengsoklay\Desktop\MengSoklay SS13.14\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.Payments.resources
+C:\Users\mengsoklay\Desktop\MengSoklay SS13.14\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.Properties.Resources.resources
+C:\Users\mengsoklay\Desktop\MengSoklay SS13.14\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frmViewPeople.resources
+C:\Users\mengsoklay\Desktop\MengSoklay SS13.14\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.csproj.GenerateResource.cache
+C:\Users\mengsoklay\Desktop\MengSoklay SS13.14\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.csproj.CoreCompileInputs.cache
+C:\Users\mengsoklay\Desktop\MengSoklay SS13.14\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.exe
+C:\Users\mengsoklay\Desktop\MengSoklay SS13.14\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.pdb
+C:\Users\mengsoklay\Desktop\MengSoklay SS13.14\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frmcustomer.resources
+C:\Users\mengsoklay\Desktop\MengSoklay SS13.14\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.ProductControl.resources
+C:\Users\mengsoklay\Desktop\MengSoklay SS13.14\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.showProduct.resources
+C:\Users\mengsoklay\Desktop\connectToSQLserver2\connectToSQLserver\connectToSQLserver\bin\Debug\connectToSQLserver.exe.config
+C:\Users\mengsoklay\Desktop\connectToSQLserver2\connectToSQLserver\connectToSQLserver\bin\Debug\connectToSQLserver.exe
+C:\Users\mengsoklay\Desktop\connectToSQLserver2\connectToSQLserver\connectToSQLserver\bin\Debug\connectToSQLserver.pdb
+C:\Users\mengsoklay\Desktop\connectToSQLserver2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.csproj.AssemblyReference.cache
+C:\Users\mengsoklay\Desktop\connectToSQLserver2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.csproj.SuggestedBindingRedirects.cache
+C:\Users\mengsoklay\Desktop\connectToSQLserver2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frmcustomer.resources
+C:\Users\mengsoklay\Desktop\connectToSQLserver2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frmlogin.resources
+C:\Users\mengsoklay\Desktop\connectToSQLserver2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frminsertproduct.resources
+C:\Users\mengsoklay\Desktop\connectToSQLserver2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frmLuckyDraw.resources
+C:\Users\mengsoklay\Desktop\connectToSQLserver2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frmMainform.resources
+C:\Users\mengsoklay\Desktop\connectToSQLserver2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frmOrderproducts.resources
+C:\Users\mengsoklay\Desktop\connectToSQLserver2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frmpayment.resources
+C:\Users\mengsoklay\Desktop\connectToSQLserver2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.Payments.resources
+C:\Users\mengsoklay\Desktop\connectToSQLserver2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.ProductControl.resources
+C:\Users\mengsoklay\Desktop\connectToSQLserver2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.Properties.Resources.resources
+C:\Users\mengsoklay\Desktop\connectToSQLserver2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.showProduct.resources
+C:\Users\mengsoklay\Desktop\connectToSQLserver2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.frmViewPeople.resources
+C:\Users\mengsoklay\Desktop\connectToSQLserver2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.csproj.GenerateResource.cache
+C:\Users\mengsoklay\Desktop\connectToSQLserver2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.csproj.CoreCompileInputs.cache
+C:\Users\mengsoklay\Desktop\connectToSQLserver2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.exe
+C:\Users\mengsoklay\Desktop\connectToSQLserver2\connectToSQLserver\connectToSQLserver\obj\Debug\connectToSQLserver.pdb
