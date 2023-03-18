@@ -1,2 +1,2 @@
-# SkinCareShop_SS1314
+# OnlineShop_SS1314
 SA teamwork
